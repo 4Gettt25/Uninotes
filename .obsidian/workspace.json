@@ -4,47 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "ea15c9ddb746a9ca",
+        "id": "cd75f3f48a2a45a9",
         "type": "tabs",
+        "dimension": 43.41637010676156,
         "children": [
           {
-            "id": "c816e11e4479bef0",
+            "id": "1e536a32fdbe39f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praxisprojekt_2/Thema 2/Thema 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1228efe0baa31f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praxisprojekt_2/Thema 2/Thema 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2acd41b1c2a6559f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praxisprojekt_2/Thema 2/Thema 2.md",
+                "file": "Mathe 2 Prüfung/Repetitorium.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "7a40b8f0d673ff67",
+        "type": "tabs",
+        "dimension": 56.58362989323843,
+        "children": [
+          {
+            "id": "b5d77811228da957",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Bilder/20200804_IMT102-01_Repetitorium.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(Übung)",
+                "query": "tag:#Internet_of_Things",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed0cc559a4606fac",
@@ -110,14 +104,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praxisprojekt_2/Thema 2/Thema 2.md",
+                "file": "Mathe 2 Prüfung/Repetitorium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -127,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praxisprojekt_2/Thema 2/Thema 2.md",
+                "file": "Mathe 2 Prüfung/Repetitorium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praxisprojekt_2/Thema 2/Thema 2.md"
+                "file": "Mathe 2 Prüfung/Repetitorium.md"
               }
             }
           },
@@ -161,13 +155,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0d1d17a57749cc2b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 301.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -178,37 +180,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "cmdr:Export to PDF...": false,
-      "obsidian-projects:Open projects": false
+      "cmdr:Kanban: Convert empty note to Kanban": false,
+      "obsidian-projects:Open projects": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "2acd41b1c2a6559f",
+  "active": "1e536a32fdbe39f7",
   "lastOpenFiles": [
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Praxisprojekt_2/Thema 2/Thema 2.md",
-    "Praxisprojekt_2/Thema 1/Thema 1.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Bilder/20200804_IMT102-01_Repetitorium.pdf",
+    "Mathe 2 Prüfung/Repetitorium.md",
+    "Mathe 2 Prüfung/zusammenhängende Graphen.md",
+    "Mathe 2 Prüfung/ungerichtete Graphen.md",
+    "Mathe 2 Prüfung/gerichtete Graphen.md",
+    "Mathe 2 Prüfung/eulersch.md",
+    "Mathe 2 Prüfung/Adjazenzmatrix.md",
+    "Mathe 2 Prüfung/bipartite Graphen.md",
+    "Daily Notes/16.08.2023.md",
+    "Daily Notes/17.08.2023.md",
+    "Mathe 2 Prüfung/Graphen.md",
+    "\"ungerichtete.md",
+    "ungerichtete.md",
+    "[[ungerichtete.md",
+    "Mathe 2 Prüfung/Inzidenzmatrix.md",
+    "Mathe 2 Prüfung/planar Graph.md",
+    "Mathe 2 Prüfung/hamiltonisch.md",
+    "Mathe 2 Prüfung/Matrizen.md",
+    "zusammenhängender Graph.md",
+    "Mathe 2 Prüfung/zusammenhängender Graph.md",
+    "zusammenhängend.md",
+    "1.md",
+    "Digitale Businessmodelle/Verschlüsselung.md",
+    "2023-08-13.md",
+    "Digitale Businessmodelle",
+    "Untitled.md",
+    "Mathe 2 Prüfung/Test.md",
+    "Bilder",
+    "depositphotos_58783027-stock-illustration-rubber-stamp-usp.jpg",
+    "Mathe 2 Prüfung",
+    "Daily Notes",
     "Praxisprojekt_2/Thema 2",
     "Praxisprojekt_2/Thema 1",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Praxisprojekt_2",
     "Projects - Demo Project",
-    "Buchführung/Lektion 7.md",
-    "Dataview.md",
-    "Buchführung/Lektion 1.md",
-    "Buchführung/Lektion 5.md",
-    "Verschlüsselung.md",
-    "Buchführung/Lektion 2.md",
-    "2023-08-13.md",
-    "Buchführung/Lektion 1/Bilanzgleichung.md",
     "Buchführung/Lektion 1",
-    "Deep-Web Hosting.md",
-    "Buchführung",
-    "Test.md",
-    "Untitled.canvas",
-    "2023-07-28.md"
+    "Untitled.canvas"
   ]
 }

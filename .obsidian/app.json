@@ -1,1 +1,8 @@
-{}
+{
+  "vimMode": false,
+  "legacyEditor": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true
+}

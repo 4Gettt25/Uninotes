@@ -10,113 +10,6 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "Projects - Demo Project",
-          "recursive": false
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {
-            "fieldConfig": {
-              "name": {
-                "width": 360
-              },
-              "path": {
-                "hide": true
-              }
-            }
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": [
-              {
-                "color": "#a882ff",
-                "condition": {
-                  "field": "name",
-                  "operator": "is-not-empty",
-                  "enabled": true
-                }
-              }
-            ]
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Table",
-          "id": "e30f7f6f-2a31-4318-9a24-38206ed29790",
-          "type": "table"
-        },
-        {
-          "config": {
-            "groupByField": "status",
-            "priorityField": "weight"
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Board",
-          "id": "339b8f3d-1d9c-486d-b76d-c04e939a79df",
-          "type": "board"
-        },
-        {
-          "config": {
-            "interval": "month",
-            "dateField": "due",
-            "checkField": "published"
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Calendar",
-          "id": "ce26fc4d-7c57-40f5-a395-e24f00befa96",
-          "type": "calendar"
-        },
-        {
-          "config": {
-            "coverField": "image"
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "name": "Gallery",
-          "id": "f6a0f19c-444b-4869-9a8c-72e5ccf108c4",
-          "type": "gallery"
-        }
-      ],
-      "name": "Demo project",
-      "id": "88a0b756-6f5e-4f4b-ac56-9b1b2baa550e",
-      "path": "Projects - Demo Project"
-    },
-    {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": true,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
           "path": "Praxisprojekt_2",
           "recursive": true
         }
@@ -179,6 +72,153 @@
       ],
       "id": "7d5f5fa4-5c4e-4730-b397-7b6e279b3fda",
       "name": "Praxisprojekt 2"
+    },
+    {
+      "fieldConfig": {
+        "published": {},
+        "Datum": {
+          "options": [
+            "date"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Daily Notes",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "File": {
+                "width": 144
+              },
+              "path": {
+                "hide": true
+              },
+              "date": {
+                "hide": true
+              },
+              "published": {
+                "hide": false
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "138ba485-a107-4427-abbe-3cad33661381",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "280c9c19-65f8-4d6c-9c81-b3068affe0a2",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "ea4cac16-8627-496e-8673-2e74a19ef21d",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "72a234f8-38c5-484f-a552-45f718364746",
+      "name": "Daily notes"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Mathe 2 Prüfung",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "Mathe",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": false
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "date",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "c0443c82-1c22-4f33-88fe-349bb051ec92",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "96ee8b64-19e9-4a9f-bbd3-aca022f7ef2c",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "5bbf4925-b971-400c-9933-962cdb3eba90",
+      "name": "Mathe 2 Prüfung"
     }
   ],
   "preferences": {

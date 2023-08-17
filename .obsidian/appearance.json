@@ -1,6 +1,8 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Tokyo Night",
-  "baseFontSize": 15
+  "cssTheme": "Minimal",
+  "baseFontSize": 15,
+  "textFontFamily": "JetBrainsMono Nerd Font,CaskaydiaCove Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,CaskaydiaCove Nerd Font"
 }

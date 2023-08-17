@@ -1,8 +1,15 @@
 [
+  "obsidian-advanced-slides",
   "table-editor-obsidian",
-  "numerals",
-  "obsidian-kanban",
+  "calendar",
   "cmdr",
   "dataview",
-  "obsidian-projects"
+  "obsidian-kanban",
+  "latex-matrices",
+  "numerals",
+  "obsidian-projects",
+  "obsidian-tasks-plugin",
+  "obsidian-minimal-settings",
+  "obsidian-icon-folder",
+  "3d-graph"
 ]

@@ -10,12 +10,31 @@
       "icon": "airplay",
       "name": "Export to PDF...",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-kanban:convert-to-kanban",
+      "icon": "package-minus",
+      "name": "Kanban: Convert empty note to Kanban",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "fantasy-calendar:open-big-fantasy-calendar",
+      "icon": "calendar",
+      "name": "Fantasy Calendar:Uni",
+      "mode": "any"
+    },
+    {
+      "id": "latex-matrices:open-matrix-modal",
+      "icon": "binary",
+      "name": "Latex Matrices: Create new matrix",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {
@@ -23,7 +42,12 @@
       "editor-status",
       "sync"
     ],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Insert template",
+      "Advanced Tables Toolbar",
+      "Open Large Fantasy Calendar",
+      "Show Slide Preview"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
