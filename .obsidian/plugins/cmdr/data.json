@@ -16,6 +16,18 @@
       "icon": "package-minus",
       "name": "Kanban: Convert empty note to Kanban",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push",
+      "icon": "git-commit",
+      "name": "Obsidian Git: Create backup",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "icon": "git-fork",
+      "name": "Obsidian Git: Pull",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],

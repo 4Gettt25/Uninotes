@@ -246,4 +246,20 @@ Die resultierende Matrix C (A x B) ist also:
 C = $\left(\begin{matrix} 0 & 5 \ -4 & 7\end{matrix} \right)$
 
 ## Aufgabe 17
-$\left(\begin{matrix} 0 & 2 \\ -2 & -2\end{matrix} \right)$
+A = $\left(\begin{matrix} 0 & 1 \\ -2 & 2\end{matrix} \right)$
+
+B = $\left(\begin{matrix} 1 & 3 \\ 0 & 2\end{matrix} \right)$
+
+C = $\left(\begin{matrix} 0 & 2 \\ -2 & -2\end{matrix} \right)$
+
+C(1,1) = A(1,1) * B(1,1) + A(1,2) * B(2,1)
+= 0 * 1 + 1 * 0
+
+C(1,2) = A(1,1) * B(1,2) + A(1,2) * B(2,2)
+= 0 * 3 + 1 * 2
+
+C(2,1) = A(2,1) * B(1,1) + A(2,2) * B(2,1)
+= -2 * 1 + 2 * 0
+
+C(2,2) = A(2,1) * B(1,1) + A(2,2) * B(2,1)
+= -2 * 1 + 2 * 0

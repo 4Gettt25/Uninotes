@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#da6b2f",
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "textFontFamily": "JetBrainsMono Nerd Font,CaskaydiaCove Nerd Font",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font,CaskaydiaCove Nerd Font"
+  "interfaceFontFamily": "Roboto"
 }

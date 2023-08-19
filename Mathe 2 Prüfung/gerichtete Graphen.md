@@ -24,7 +24,7 @@ Um eine _Orientierung_ eines [[einfachen ungerichteten Graph]] zu erhalten, muss
 
 Ein _gewichteter Digraph_ ist ein Digraph, dessen Kanten Gewichte zugeordnet werden, wodurch man einen [kantengewichteten Graphen](https://de.wikipedia.org/wiki/Kantengewichteter_Graph "Kantengewichteter Graph") erhält. Ein Digraph mit gewichteten Kanten wird in der Graphentheorie als [Netzwerk](https://de.wikipedia.org/wiki/Netzwerk_(Graphentheorie) "Netzwerk (Graphentheorie)") bezeichnet.[5](https://de.wikipedia.org/wiki/Gerichteter_Graph#cite_note-5)
 
-Die [Adjazenzmatrix](Adjazenzmatrix.md) eines Digraphen (mit Schleifen und Mehrfachkanten) ist eine ganzzahlige [Matrix]([[Matrizen]]), deren Zeilen und Spalten den Knoten des Digraphen entsprechen. Ein Eintrag a i j außerhalb der [Hauptdiagonalen](https://de.wikipedia.org/wiki/Hauptdiagonale "Hauptdiagonale") gibt die Anzahl der Kanten vom Knoten i zum Knoten j an, und der Eintrag der Hauptdiagonalen a i i entspricht der Anzahl der Schleifen im Knoten i . Die Adjazenzmatrix eines Digraphen ist bis auf Vertauschung von Zeilen und Spalten eindeutig.
+Die [Adjazenzmatrix](Adjazenzmatrix.md) eines Digraphen (mit Schleifen und Mehrfachkanten) ist eine ganzzahlige [[Matrix]], deren Zeilen und Spalten den Knoten des Digraphen entsprechen. Ein Eintrag a i j außerhalb der [Hauptdiagonalen](https://de.wikipedia.org/wiki/Hauptdiagonale "Hauptdiagonale") gibt die Anzahl der Kanten vom Knoten i zum Knoten j an, und der Eintrag der Hauptdiagonalen a i i entspricht der Anzahl der Schleifen im Knoten i . Die Adjazenzmatrix eines Digraphen ist bis auf Vertauschung von Zeilen und Spalten eindeutig.
 
 Ein Digraph lässt sich auch durch eine [[Inzidenzmatrix]] repräsentieren.
 

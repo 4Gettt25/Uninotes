@@ -6,9 +6,13 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPictureInPicture2"
+      "LiLayoutTemplate",
+      "LiDivideSquare",
+      "LiBuilding",
+      "FarNoteSticky",
+      "LiBookOpenCheck"
     ],
-    "recentlyUsedIconsSize": 10,
+    "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -18,5 +22,10 @@
     },
     "iconInTabsEnabled": false
   },
-  "Bilder": "LiPictureInPicture2"
+  "Bilder": "IbGraphicsAndDesign",
+  "Buchführung": "LiBookOpenCheck",
+  "Daily Notes": "FarNoteSticky",
+  "Digitale Businessmodelle": "LiBuilding",
+  "Mathe 2 Prüfung": "LiDivideSquare",
+  "Templates": "LiLayoutTemplate"
 }

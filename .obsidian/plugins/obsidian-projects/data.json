@@ -108,7 +108,7 @@
                 "hide": true
               },
               "published": {
-                "hide": false
+                "hide": true
               }
             }
           },
@@ -219,6 +219,42 @@
       ],
       "id": "5bbf4925-b971-400c-9933-962cdb3eba90",
       "name": "Mathe 2 Prüfung"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Templates/Untitled.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "OOP1",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d57e9735-e6fd-48b1-bfe5-4c808714dbc1",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "49f3b886-2f83-43dc-9ba7-c896409a15e8",
+      "name": "OOP1"
     }
   ],
   "preferences": {
