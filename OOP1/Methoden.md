@@ -7,7 +7,7 @@ tags:
 - Methoden sind Wiederverwendbare Code-Blöcke.
 - Methoden haben Parameter und Rückgabewerte (oder können `void` sein).
 - Beispiel für eine Methode:
-	```java
+```java
 	public int add(int a, int b) {
     return a + b;
 	}

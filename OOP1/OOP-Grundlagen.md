@@ -4,7 +4,7 @@ tags:
 - "OOP1"
 ---
 ## Objektorientierte Programmierung (OOP) Grundlagen:
-1. **Klassen und Objekte:** Klassen sind Baupläne für Objekte. Objekte sind Instanzen von Klassen und enthalten Daten (Attribute) und Verhalten (Methoden).
+1. **[[Klassen und Objekte]]:** Klassen sind Baupläne für Objekte. Objekte sind Instanzen von Klassen und enthalten Daten (Attribute) und Verhalten (Methoden).
 
 2. **Vererbung:** Klassen können von anderen Klassen erben. Die abgeleitete Klasse erbt Attribute und Methoden von der Elternklasse. Das ermöglicht das Wiederverwenden von Code und die Hierarchiebildung.
 

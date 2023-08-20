@@ -5,8 +5,8 @@ tags:
 ---
 ## Eigenschaften
 - Ausnahmen werden verwendet, um unerwartete Situationen während der Ausführung zu behandeln.
-- Beispiel für Try-Catch:
-	```java
+- Beispiel für Try-Catch:	
+```java
 	try {
     int result = 10 / 0;
 	} catch (ArithmeticException e) {
