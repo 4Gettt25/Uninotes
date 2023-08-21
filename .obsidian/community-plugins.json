@@ -1,7 +1,6 @@
 [
   "table-editor-obsidian",
   "cmdr",
-  "obsidian-kanban",
   "latex-matrices",
   "numerals",
   "obsidian-projects",
@@ -12,6 +11,5 @@
   "dataview",
   "obsidian-icon-folder",
   "templater-obsidian",
-  "obsidian-git",
-  "3d-graph"
+  "obsidian-git"
 ]

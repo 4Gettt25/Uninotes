@@ -11,20 +11,24 @@
             "id": "ec2659e9e3019520",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Bilder/OOP/Martin - 2000 - Design Principles and Design Patterns.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "47c2faf752f7fd00",
+            "id": "dd10ed21458c0804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP1/Datenstrukturen.md",
-                "mode": "preview",
+                "file": "Daily Notes/21.08.2023.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -96,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP1/Datenstrukturen.md",
+                "file": "Daily Notes/21.08.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP1/Datenstrukturen.md",
+                "file": "Daily Notes/21.08.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP1/Datenstrukturen.md"
+                "file": "Daily Notes/21.08.2023.md"
               }
             }
           },
@@ -178,18 +182,24 @@
       "cmdr:Kanban: Convert empty note to Kanban": false,
       "obsidian-projects:Open projects": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false,
-      "3d-graph:3D Graph": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "47c2faf752f7fd00",
+  "active": "dd10ed21458c0804",
   "lastOpenFiles": [
+    "README.md",
+    "test.md",
+    "Daily Notes/16.08.2023.md",
+    "Templates/Dailynote Template.md",
+    "Daily Notes/21.08.2023.md",
+    "Bilder/OOP/Martin - 2000 - Design Principles and Design Patterns.pdf",
+    "OOP1/Datenstrukturen.md",
+    "Lernskript Java-Basics und SOLID-Prinzipien.md",
     "OOP1/Java-Basics.md",
     "OOP1/Kontrollstrukturen.md",
     "OOP1/SOLID-Prinzipien.md",
     "OOP1/Design Principles and Design Patterns.md",
     "OOP1/DSPOOPI01_all.md",
-    "OOP1/Datenstrukturen.md",
     "OOP1/Datei- und Konsolenein-ausgabe.md",
     "OOP1/Ausnahmen (Exceptions).md",
     "OOP1/Vererbung und Polymorphismus.md",
@@ -197,7 +207,6 @@
     "OOP1/OOP-Grundlagen.md",
     "OOP1/Modularität.md",
     "OOP1/Methoden.md",
-    "Bilder/OOP/Martin - 2000 - Design Principles and Design Patterns.pdf",
     "Daily Notes/20.08.2023.md",
     "Bilder/OOP/DSPOOPI01_Java_overview.pdf",
     "Bilder/OOP/DSPOOPI01_all.pdf",
@@ -206,16 +215,10 @@
     "Mathe 2 Prüfung/hamiltonisch.md",
     "Mathe 2 Prüfung/gerichtete Graphen.md",
     "[[Matrizen]].md",
-    "Daily Notes/16.08.2023.md",
     "Daily Notes/15.08.2023.md",
-    "Daily Notes/19.08.2023.md",
-    "Praxisprojekt_2/Thema 1/Thema 1.md",
-    "Datei- und Konsolenein-/ausgabe.md",
-    "Templates/Dailynote Template.md",
     "Bilder/Mathe2/20200804_IMT102-01_Repetitorium.pdf",
     "Bilder/Mathe2",
     "Bilder/OOP",
-    "OOP1/Java overview.md",
     "Datei- und Konsolenein-",
     "Bilder/OOP/Pasted image 20230819220034.png",
     "Bilder/OOP/Pasted image 20230819215950.png",
