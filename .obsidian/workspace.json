@@ -195,11 +195,13 @@
       "obsidian-projects:Open projects": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "15814f34968861c6",
+  "active": "bf99a0ba0178418f",
   "lastOpenFiles": [
+    "Test.md",
     "Praxisprojekt_2/Thema 2/Thema 2.md",
     "Praxisprojekt_2/Thema 1/Thema 1.md",
     "Daily Notes/23.08.2023.md",
@@ -225,7 +227,6 @@
     "OOP1/Methoden.md",
     "OOP1/Kontrollstrukturen.md",
     "Daily Notes/21.08.2023.md",
-    "test.md",
     "Bilder/OOP/Martin - 2000 - Design Principles and Design Patterns.pdf",
     "Bilder/OOP/DSPOOPI01_Java_overview.pdf",
     "Bilder/OOP/DSPOOPI01_all.pdf",
