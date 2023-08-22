@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
-  "accentColor": "#e86721",
-  "theme": "obsidian",
-=======
-  "accentColor": "#da6b2f",
+  "accentColor": "",
   "theme": "moonstone",
->>>>>>> 9b2eafe9ef89077a3e0b970459dcd8bd5d42838f
-  "cssTheme": "Minimal",
-  "baseFontSize": 16,
-  "textFontFamily": "JetBrainsMono Nerd Font,CaskaydiaCove Nerd Font",
-  "interfaceFontFamily": "Roboto"
+  "cssTheme": "Minimal"
 }
