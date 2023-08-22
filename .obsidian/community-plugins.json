@@ -11,5 +11,7 @@
   "dataview",
   "obsidian-icon-folder",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "3d-graph",
+  "obsidian-plugin-toc"
 ]

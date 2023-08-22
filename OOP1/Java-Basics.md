@@ -3,7 +3,6 @@ date: 2023-08-19
 tags:
 - "OOP1"
 ---
-
 ## Java-Basics
 1. **[[Datenstrukturen]]:** Wie man primitive Datentypen, Arrays, Listen, Sets, Maps usw. verwendet.
 
