@@ -5,7 +5,7 @@ tags:
 - Uni
 - Unter Thema
 ---
-Ein **planarer** oder **plättbarer Graph** ist in der [Graphentheorie]([[Graphen]]) ein [Graph](https://de.wikipedia.org/wiki/Graph_(Graphentheorie) "Graph (Graphentheorie)"), der auf einer Ebene, mit Punkten für die [Knoten](https://de.wikipedia.org/wiki/Knoten_(Graphentheorie) "Knoten (Graphentheorie)") und Linien für die [Kanten](https://de.wikipedia.org/wiki/Kante_(Graphentheorie) "Kante (Graphentheorie)"), dargestellt werden kann, sodass sich keine Kanten schneiden.
+Ein **planarer** oder **plättbarer Graph** ist in der [[Graphen]]theorie ein [Graph](https://de.wikipedia.org/wiki/Graph_(Graphentheorie) "Graph (Graphentheorie)"), der auf einer Ebene, mit Punkten für die [Knoten](https://de.wikipedia.org/wiki/Knoten_(Graphentheorie) "Knoten (Graphentheorie)") und Linien für die [Kanten](https://de.wikipedia.org/wiki/Kante_(Graphentheorie) "Kante (Graphentheorie)"), dargestellt werden kann, sodass sich keine Kanten schneiden.
 
 ---
 ## Definition
@@ -33,10 +33,10 @@ Ein Graph heißt **außerplanar** (oft auch **außenplanar** oder **kreisartig p
 - Ein planarer Graph kann höchstens [5-fach zusammenhängend](https://de.wikipedia.org/wiki/K-Zusammenhang "K-Zusammenhang") sein und es gibt immer einen Knoten mit Knotengrad höchstens 5.
 - Nach dem Koebe-Andreev-Thurston-Theorem existiert für jeden planaren Graphen eine assoziierte [Kreispackung](https://de.wikipedia.org/wiki/Kreispackung "Kreispackung"), deren Kontaktgraph isomorph zum Ursprungsgraph ist.
 
-Die Planarität eines [Graphen]([[Graphen]]) lässt sich mit verschiedenen [Algorithmen](https://de.wikipedia.org/wiki/Algorithmus "Algorithmus") in linearer [Laufzeit](https://de.wikipedia.org/wiki/Laufzeit_(Informatik) "Laufzeit (Informatik)") testen.
+Die Planarität eines [[Graphen]] lässt sich mit verschiedenen [Algorithmen](https://de.wikipedia.org/wiki/Algorithmus "Algorithmus") in linearer [Laufzeit](https://de.wikipedia.org/wiki/Laufzeit_(Informatik) "Laufzeit (Informatik)") testen.
 
 ### Der Eulerscher Polyedersatz
-Der [Eulersche Polyedersatz](https://de.wikipedia.org/wiki/Eulerscher_Polyedersatz "Eulerscher Polyedersatz") besagt, dass jeder endliche [zusammenhängende]([[zusammenhängende Graphen]]) planare [Graph]([[Graphen]]) mit | V | [Knoten](https://de.wikipedia.org/wiki/Knoten_(Graphentheorie) "Knoten (Graphentheorie)"), | E | [Kanten](https://de.wikipedia.org/wiki/Kante_(Graphentheorie) "Kante (Graphentheorie)") und | F | Flächen folgende [Gleichung](https://de.wikipedia.org/wiki/Gleichung "Gleichung") erfüllt:
+Der [Eulersche Polyedersatz](https://de.wikipedia.org/wiki/Eulerscher_Polyedersatz "Eulerscher Polyedersatz") besagt, dass jeder endliche [zusammenhängende]([[zusammenhängende Graphen]]) planare [[Graphen]] mit | V | [Knoten](https://de.wikipedia.org/wiki/Knoten_(Graphentheorie) "Knoten (Graphentheorie)"), | E | [Kanten](https://de.wikipedia.org/wiki/Kante_(Graphentheorie) "Kante (Graphentheorie)") und | F | Flächen folgende [Gleichung](https://de.wikipedia.org/wiki/Gleichung "Gleichung") erfüllt:
 
 | V | − | E | + | F | = 2 
 
@@ -46,4 +46,4 @@ In einem endlichen zusammenhängenden einfachen planaren Graphen wird jede Fläc
 
 Der Polyedersatz gilt auch für konvexe [Polyeder](https://de.wikipedia.org/wiki/Polyeder "Polyeder"). Dies ist kein Zufall: Jedes konvexe Polyeder kann mithilfe des [Schlegeldiagramms](https://de.wikipedia.org/wiki/Schlegeldiagramm "Schlegeldiagramm") des Polyeders, einer [Zentralprojektion](https://de.wikipedia.org/wiki/Zentralprojektion "Zentralprojektion") des Polyeders auf eine [Ebene](https://de.wikipedia.org/wiki/Ebene_(Mathematik) "Ebene (Mathematik)"), deren Projektionszentrum nahe dem Zentrum einer [Seitenfläche](https://de.wikipedia.org/wiki/Seitenfl%C3%A4che "Seitenfläche") des Polyeders liegt, in einen zusammenhängenden einfachen planaren Graphen umgewandelt werden. Nicht jeder planare Graph entspricht auf diese Weise einem konvexen Polyeder: Die [Bäume](https://de.wikipedia.org/wiki/Baum_(Graphentheorie) "Baum (Graphentheorie)") zum Beispiel nicht.
 
-Der [Satz von Steinitz](https://de.wikipedia.org/wiki/Satz_von_Steinitz "Satz von Steinitz") besagt, dass die aus konvexen [Polyedern](https://de.wikipedia.org/wiki/Polyeder "Polyeder") gebildeten [Graphen]([[Graphen]]) genau die endlichen [3-fach zusammenhängenden](https://de.wikipedia.org/wiki/K-Zusammenhang "K-Zusammenhang") einfachen planaren Graphen sind. Im Allgemeinen gilt der Polyedersatz für jedes Polyeder, dessen Flächen einfache [Polygone](https://de.wikipedia.org/wiki/Polygon "Polygon") sind, die unabhängig von ihrer Konvexität eine Oberfläche bilden, die [topologisch](https://de.wikipedia.org/wiki/Topologie_(Mathematik) "Topologie (Mathematik)") äquivalent zu einer [Kugel](https://de.wikipedia.org/wiki/Kugel "Kugel") sind.
+Der [Satz von Steinitz](https://de.wikipedia.org/wiki/Satz_von_Steinitz "Satz von Steinitz") besagt, dass die aus konvexen [Polyedern](https://de.wikipedia.org/wiki/Polyeder "Polyeder") gebildeten [[Graphen]] genau die endlichen [3-fach zusammenhängenden](https://de.wikipedia.org/wiki/K-Zusammenhang "K-Zusammenhang") einfachen planaren Graphen sind. Im Allgemeinen gilt der Polyedersatz für jedes Polyeder, dessen Flächen einfache [Polygone](https://de.wikipedia.org/wiki/Polygon "Polygon") sind, die unabhängig von ihrer Konvexität eine Oberfläche bilden, die [topologisch](https://de.wikipedia.org/wiki/Topologie_(Mathematik) "Topologie (Mathematik)") äquivalent zu einer [Kugel](https://de.wikipedia.org/wiki/Kugel "Kugel") sind.

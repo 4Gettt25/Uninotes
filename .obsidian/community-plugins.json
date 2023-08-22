@@ -5,7 +5,6 @@
   "numerals",
   "obsidian-projects",
   "obsidian-tasks-plugin",
-  "obsidian-minimal-settings",
   "obsidian-advanced-slides",
   "calendar",
   "dataview",
@@ -13,5 +12,6 @@
   "templater-obsidian",
   "obsidian-git",
   "3d-graph",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-minimal-settings"
 ]

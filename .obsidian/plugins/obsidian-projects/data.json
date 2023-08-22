@@ -31,7 +31,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "aca38c5a-f10b-4962-80ce-83eb0d791d09",
           "name": "Table",
