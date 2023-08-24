@@ -5,7 +5,7 @@ tags:
 - Uni
 - Unter Thema
 ---
-Der **Zusammenhang** ist ein mathematischer Begriff aus der [Graphentheorie](https://de.wikipedia.org/wiki/Graphentheorie "Graphentheorie"). Ein [Graph]([[Graphen]]) heißt zusammenhängend, wenn seine [Knoten](https://de.wikipedia.org/wiki/Knoten_(Graphentheorie) "Knoten (Graphentheorie)") paarweise durch eine [Kantenfolge](https://de.wikipedia.org/wiki/Kantenfolge "Kantenfolge") verbunden sind.
+Der **Zusammenhang** ist ein mathematischer Begriff aus der [Graphentheorie](https://de.wikipedia.org/wiki/Graphentheorie "Graphentheorie"). Ein [Graph](Graphen) heißt zusammenhängend, wenn seine [Knoten](https://de.wikipedia.org/wiki/Knoten_(Graphentheorie) "Knoten (Graphentheorie)") paarweise durch eine [Kantenfolge](https://de.wikipedia.org/wiki/Kantenfolge "Kantenfolge") verbunden sind.
 
 ---
 ## Definition

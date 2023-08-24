@@ -20,7 +20,8 @@
           "config": {
             "fieldConfig": {
               "path": {
-                "width": 340
+                "width": 340,
+                "hide": true
               }
             }
           },
@@ -74,6 +75,21 @@
           "id": "1adb23de-cdd6-4710-837b-71fed4cdf82d",
           "name": "Board",
           "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "209f87d0-00d5-4b7d-95f7-e258f85e5404",
+          "name": "Gallery",
+          "type": "gallery"
         }
       ],
       "id": "7d5f5fa4-5c4e-4730-b397-7b6e279b3fda",
