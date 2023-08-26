@@ -10,7 +10,7 @@ Diese umfassen im Einzelnen: Energie, Reisen, Veranstaltungen, Beschaffung und A
 
 ## Nachhaltige Projekte
 
-Im Bereich der **Internationalen Zusammenarbeit** steht die **Anpassung an die [Herausforderungen des Klimawandels](/hilfe-weltweit/was-wir-tun/klimawandel-folgen/ "DRK-Schwerpunkte zur Anpassung an den Klimawandel")** in unterschiedlichen Kooperationen mit Schwestergesellschaften im Vordergrund. Die Projekte der vorausschauenden humanitären Hilfe ([Forecast-based Financing](/hilfe-weltweit/was-wir-tun/vorausschauende-humanitaere-hilfe/ "Vorausschauende humanitäre Hilfe")) z.B. befähigen Schwestergesellschaften in Hochrisikoländern wie Bangladesch, Mosambik oder Peru, bereits vor Eintreten eines Extremwetterereignisses durch Ausschüttung von Geldern frühe, risikoreduzierende Maßnahmen umzusetzen. So können die **Auswirkungen des Klimawandels** auf vulnerable und besonders gefährdete Bevölkerungsgruppen wirkungsvoll **reduziert** werden.
+Im Bereich der **Internationalen Zusammenarbeit** steht die **Anpassung an die [Herausforderungen des Klimawandels](https://hilfe-weltweit/was-wir-tun/klimawandel-folgen/ "DRK-Schwerpunkte zur Anpassung an den Klimawandel")** in unterschiedlichen Kooperationen mit Schwestergesellschaften im Vordergrund. Die Projekte der vorausschauenden humanitären Hilfe ([Forecast-based Financing](https://hilfe-weltweit/was-wir-tun/vorausschauende-humanitaere-hilfe/ "Vorausschauende humanitäre Hilfe")) z.B. befähigen Schwestergesellschaften in Hochrisikoländern wie Bangladesch, Mosambik oder Peru, bereits vor Eintreten eines Extremwetterereignisses durch Ausschüttung von Geldern frühe, risikoreduzierende Maßnahmen umzusetzen. So können die **Auswirkungen des Klimawandels** auf vulnerable und besonders gefährdete Bevölkerungsgruppen wirkungsvoll **reduziert** werden.
 
 Im Jahr 2020 hat das DRK den sogenannten **[Anticipation Hub](http://www.anticipation-hub.org)** entwickelt, auf dem sich mittlerweile rund **75 Partner aus Wissenschaft, humanitärer Hilfe, Entwicklungszusammenarbeit und Politik** über das Thema Antizipation informieren und austauschen können.
 
@@ -31,10 +31,13 @@ Das **JRK** hat es sich zum Ziel gesetzt, **nachhaltiges Handeln fortlaufend in 
 ---
 
 ## Themenfelder für Umweltschutz und nachhaltiges Handeln
+
 -  **[[Energie]]**
 -  **[[Reisen]]**
 -  **[[Veranstaltungen]]**
--  **[[Beschafftung]]**
+-  **[[Beschaffung]]**
 -  **[[Abfallvermeidung]]**
 -  **[[Gebende]]**
 
+---
+### Quellen

@@ -1,9 +1,10 @@
 ---
+thumbnail: Bilder/Praxisprojekt/neom-39n8YVSn0d4-unsplash.jpg
 date: 2023-08-24
 status: angefangen
 due: 2023-09-30
 tags:
-- "Praxisprojekt 2"
+  - Praxisprojekt 2
 ---
 
 # Nachhaltigkeit und Umweltschutz: Nachhaltigkeitsmanagement im DRK
@@ -13,3 +14,6 @@ Jetzt wie auch in [[Zukunft]] muss sich das DRK unterschiedlichen [[Herausforder
 Vor diesem Hintergrund hat sich der DRK e.V. darauf verständigt, eine [[Nachhaltigkeitspolicy]] zu entwickeln. Obwohl der [Nachhaltigkeitsbegriff](Nachhaltigkeit) auch soziale und wirtschaftliche Aspekte mit einbezieht, wurde sich in einem ersten Schritt zunächst auf die nachstehende Policy zum Thema **[[umweltbezogene Nachhaltigkeit]]** verständigt und diese für den DRK e.V. verabschiedet.
 
 Die [Policy](Nachhaltigkeitspolicy) wurde von einer bereichsübergreifenden internen Arbeitsgruppe entwickelt und greift [[fünf zentrale Themenfelder]], mit Gültigkeit für den gesamten DRK e.V., auf. 
+
+---
+### Quellen
