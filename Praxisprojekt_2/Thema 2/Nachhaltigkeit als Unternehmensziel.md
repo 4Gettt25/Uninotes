@@ -1,5 +1,5 @@
 ---
-thumbnail: Bilder/Praxisprojekt/neom-39n8YVSn0d4-unsplash.jpg
+thumbnail: https://www.drk.de/fileadmin/_processed_/c/0/csm_nachhaltigkeit_cdbda222f6.png
 date: 2023-08-24
 status: angefangen
 due: 2023-09-30
@@ -17,3 +17,5 @@ Die [Policy](Nachhaltigkeitspolicy) wurde von einer bereichsübergreifenden inte
 
 ---
 ### Quellen
+[Nachhaltigkeit und Umweltschutz: Nachhaltigkeitsmanagement im DRK](https://www.drk.de/das-drk/auftrag-ziele-aufgaben-und-selbstverstaendnis-des-drk/nachhaltigkeitsmanagement/)
+#Quelle 

@@ -1,9 +1,10 @@
 ---
-date 2023-08-26
+thumbnail: https://www.drk.de/fileadmin/_processed_/f/8/csm_Anticipation_Hub_Logo_700x467_2f867e7ff8.jpg
+date: 2023-08-26
 status: angefangen
 due: 2023-09-30
 tags:
-- "Praxisprojekt 2"
+  - Praxisprojekt 2
 ---
 Im Bereich der **Internationalen Zusammenarbeit** steht die Anpassung an die [Herausforderungen des Klimawandels](https://www.drk.de/hilfe-weltweit/was-wir-tun/klimawandel-folgen/) in unterschiedlichen Kooperationen mit Schwestergesellschaften im Vordergrund. Die Projekte der vorausschauenden humanitären Hilfe ([Forecast-based Financing](https://www.drk.de/hilfe-weltweit/was-wir-tun/vorausschauende-humanitaere-hilfe/)) z.B. befähigen Schwestergesellschaften in Hochrisikoländern wie Bangladesch, Mosambik oder Peru, bereits vor Eintreten eines Extremwetterereignisses durch Ausschüttung von Geldern frühe, risikoreduzierende Maßnahmen umzusetzen. So können die **Auswirkungen des Klimawandels** auf vulnerable und besonders gefährdete Bevölkerungsgruppen wirkungsvoll **reduziert** werden.
 
@@ -12,3 +13,5 @@ Im Jahr 2020 hat das DRK den sogenannten **[Anticipation Hub](http://www.anticip
 Auch in den Bereichen der Nationalen Hilfsgesellschaft, der Wohlfahrt und des Jugendrotkreuzes wird das Thema Nachhaltigkeit zunehmend in die Projekte integriert.
 
 ### Quellen
+[Nachhaltigkeit und Umweltschutz: Nachhaltigkeitsmanagement im DRK](https://www.drk.de/das-drk/auftrag-ziele-aufgaben-und-selbstverstaendnis-des-drk/nachhaltigkeitsmanagement/)
+#Quelle 

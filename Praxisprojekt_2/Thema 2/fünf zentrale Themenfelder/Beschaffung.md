@@ -1,9 +1,9 @@
 ---
-date 2023-08-26
+date: 2023-08-26
 status: angefangen
 due: 2023-09-30
 tags:
-- "Praxisprojekt 2"
+  - Praxisprojekt 2
 ---
 Im Bereich der Beschaffung sollen nicht nur die gesetzlichen Anforderungen erfüllt, sondern auch darüberhinausgehende **internationale und nationale Vereinbarungen**, Abkommen und Strategien zur Nachhaltigkeit berücksichtigt werden. Ziel ist es, Nachhaltigkeitsaspekte fest, **verbindlich und umfassend** im Beschaffungsprozess zu implementieren und umzusetzen.  
 Unter nachhaltiger Beschaffung wird die Berücksichtigung wirtschaftlicher, ökologischer und sozialer Aspekte als Entscheidungskriterien im gesamten Beschaffungsprozess verstanden. Die konkrete Umsetzung von Nachhaltigkeitszielen kann dabei in verschiedenen Feldern erfolgen.   
@@ -17,3 +17,5 @@ Im Beschaffungsprozess können folgende Ansatzpunkte zur Berücksichtigung von N
 - Berücksichtigung von Nachhaltigkeitsaspekten bei Zuschlagskriterien.
 
 ### Quellen
+[Nachhaltigkeit und Umweltschutz: Nachhaltigkeitsmanagement im DRK](https://www.drk.de/das-drk/auftrag-ziele-aufgaben-und-selbstverstaendnis-des-drk/nachhaltigkeitsmanagement/)
+#Quelle 

@@ -3,7 +3,7 @@ date: 2023-08-24
 status: angefangen
 due: 2023-09-30
 tags:
-- "Praxisprojekt 2"
+  - Praxisprojekt 2
 ---
 
 Diese umfassen im Einzelnen: Energie, Reisen, Veranstaltungen, Beschaffung und Abfallvermeidung und werden im Folgenden genauer dargestellt.
@@ -41,3 +41,5 @@ Das **JRK** hat es sich zum Ziel gesetzt, **nachhaltiges Handeln fortlaufend in 
 
 ---
 ### Quellen
+[Nachhaltigkeit und Umweltschutz: Nachhaltigkeitsmanagement im DRK](https://www.drk.de/das-drk/auftrag-ziele-aufgaben-und-selbstverstaendnis-des-drk/nachhaltigkeitsmanagement/)
+#Quelle 
