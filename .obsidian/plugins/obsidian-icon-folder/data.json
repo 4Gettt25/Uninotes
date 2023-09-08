@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCodesandbox",
       "LiLayoutTemplate",
       "LiDivideSquare",
       "LiBuilding",
-      "FarNoteSticky",
-      "LiBookOpenCheck"
+      "FarNoteSticky"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,10 +22,6 @@
     },
     "iconInTabsEnabled": false
   },
-  "Bilder": "IbGraphicsAndDesign",
-  "Buchführung": "LiBookOpenCheck",
-  "Daily Notes": "FarNoteSticky",
-  "Digitale Businessmodelle": "LiBuilding",
-  "Mathe 2 Prüfung": "LiDivideSquare",
-  "Templates": "LiLayoutTemplate"
+  "Templates": "LiLayoutTemplate",
+  "Rust project": "LiCodesandbox"
 }

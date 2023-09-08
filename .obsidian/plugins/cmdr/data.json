@@ -18,12 +18,6 @@
       "mode": "any"
     },
     {
-      "id": "obsidian-git:push",
-      "icon": "git-commit",
-      "name": "Obsidian Git: Create backup",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-git:pull",
       "icon": "git-fork",
       "name": "Obsidian Git: Pull",
@@ -34,12 +28,6 @@
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [
-    {
-      "id": "fantasy-calendar:open-big-fantasy-calendar",
-      "icon": "calendar",
-      "name": "Fantasy Calendar:Uni",
-      "mode": "any"
-    },
     {
       "id": "latex-matrices:open-matrix-modal",
       "icon": "binary",
@@ -58,7 +46,10 @@
       "Insert template",
       "Advanced Tables Toolbar",
       "Open Large Fantasy Calendar",
-      "Show Slide Preview"
+      "Show Slide Preview",
+      "Manage workspace layouts",
+      "Obsidian Git: Create backup",
+      "Templater"
     ]
   },
   "spacing": 8,

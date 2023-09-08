@@ -18,9 +18,9 @@ Auch in den Bereichen der Nationalen Hilfsgesellschaft, der Wohlfahrt und des Ju
 
 ---
 
-## Sensibilisierung für umweltbezogene Nachhaltigkeit
+## Sensibilisierung für Umweltbezogene Nachhaltigkeit
 
-Der DRK e.V. hat sich darüber hinaus dafür ausgesprochen, für das Thema umweltbezogene Nachhaltigkeit eine **breite Resonanz im DRK-Gesamtverband** zu schaffen und somit kontinuierlich und langfristig für das Thema zu **sensibilisieren**. Konkretisierungen hierzu sowie zu der Frage, wie die **Maßnahmen** der Policy **nachgehalten** werden, finden sich ebenfalls in den nachstehenden Ausführungen wieder.
+Der DRK e.V. hat sich darüber hinaus dafür ausgesprochen, für das Thema Umweltbezogene Nachhaltigkeit eine **breite Resonanz im DRK-Gesamtverband** zu schaffen und somit kontinuierlich und langfristig für das Thema zu **sensibilisieren**. Konkretisierungen hierzu sowie zu der Frage, wie die **Maßnahmen** der Policy **nachgehalten** werden, finden sich ebenfalls in den nachstehenden Ausführungen wieder.
 
 ---
 

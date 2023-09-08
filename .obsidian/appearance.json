@@ -1,6 +1,10 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "Minimal",
-  "textFontFamily": "Roboto"
+  "theme": "obsidian",
+  "cssTheme": "Shiba Inu",
+  "textFontFamily": "Roboto",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "styles"
+  ]
 }

@@ -207,7 +207,7 @@ Das Periodenergebnis (Gewinn oder Verlust) kann durch einen Eigenkapitalvergleic
 
 ***Eigenkapital t1 – Eigenkapital t0 = Ergebnis***
 
-Voraussetzung: keine Privateinlagen/Privatentnahmen[[Lektion 7]]
+Voraussetzung: keine Privateinlagen/Privatentnahmen [[Lektion 7]]
 
 
 

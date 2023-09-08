@@ -24,7 +24,7 @@
                 "hide": true
               },
               "thumbnail": {
-                "hide": false
+                "hide": true
               },
               "name": {
                 "hide": false
@@ -138,7 +138,7 @@
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": true,
+      "isDefault": false,
       "dataSource": {
         "kind": "folder",
         "config": {
@@ -174,7 +174,7 @@
           "sort": {
             "criteria": [
               {
-                "field": "name",
+                "field": "date",
                 "order": "asc",
                 "enabled": true
               }
@@ -314,6 +314,67 @@
       ],
       "id": "49f3b886-2f83-43dc-9ba7-c896409a15e8",
       "name": "OOP1"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Rust project",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "Rust project",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "thumbnail": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "970e4dcb-6975-4c24-9c9b-4bfdd6ec18b5",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "thumbnail",
+            "fitStyle": "contain"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7d081588-036a-4700-91e3-5b8a10d957b1",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "eb3ffd7b-9cac-41c1-ba6b-a4ad5291d695",
+      "name": "Rust Projekt"
     }
   ],
   "preferences": {
@@ -321,7 +382,12 @@
     "frontmatter": {
       "quoteStrings": "PLAIN"
     },
-    "commands": [],
+    "commands": [
+      {
+        "project": "eb3ffd7b-9cac-41c1-ba6b-a4ad5291d695",
+        "view": "970e4dcb-6975-4c24-9c9b-4bfdd6ec18b5"
+      }
+    ],
     "linkBehavior": "open-editor"
   }
 }
