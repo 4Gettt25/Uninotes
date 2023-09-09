@@ -2,8 +2,13 @@
   "theme": "moonstone",
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
+<<<<<<< HEAD
   "lightScheme": "minimal-atom-light",
   "darkScheme": "minimal-atom-dark",
+=======
+  "lightScheme": "minimal-macos-light",
+  "darkScheme": "minimal-macos-dark",
+>>>>>>> 3b810435c48bdbbd3c712904d5d82bf8dfd82895
   "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,

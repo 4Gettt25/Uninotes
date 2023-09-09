@@ -217,6 +217,7 @@ b)
 
 ## Aufgabe 16
 A = $\left(\begin{matrix} 0 & 1 & 2 \\ -2 & 2 & 3\end{matrix} \right)$
+
 B = $\left(\begin{matrix} 2 & 1 \\ 0 & 3 \\ 0 & 1\end{matrix} \right)$
 
 Um die Matrixmultiplikation A x B durchzuführen, müssen wir die Zeilen der Matrix A mit den Spalten der Matrix B multiplizieren und die Ergebnisse zusammenfassen. Die Anzahl der Spalten in der Matrix A muss mit der Anzahl der Zeilen in der Matrix B übereinstimmen, damit die Multiplikation durchgeführt werden kann.
@@ -263,3 +264,5 @@ C(2,1) = A(2,1) * B(1,1) + A(2,2) * B(2,1)
 
 C(2,2) = A(2,1) * B(1,1) + A(2,2) * B(2,1)
 = -2 * 1 + 2 * 0
+
+

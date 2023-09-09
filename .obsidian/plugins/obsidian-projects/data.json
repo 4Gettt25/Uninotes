@@ -22,6 +22,12 @@
               "path": {
                 "width": 340,
                 "hide": true
+              },
+              "thumbnail": {
+                "hide": true
+              },
+              "name": {
+                "hide": false
               }
             }
           },
@@ -29,7 +35,16 @@
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "status",
+                  "operator": "is-empty",
+                  "enabled": true
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": [
@@ -62,7 +77,17 @@
           "type": "calendar"
         },
         {
-          "config": {},
+          "config": {
+            "columns": {
+              "No status": {
+                "weight": 0
+              }
+            },
+            "includeFields": [
+              "tags",
+              "status"
+            ]
+          },
           "filter": {
             "conditions": []
           },
@@ -77,7 +102,13 @@
           "type": "board"
         },
         {
-          "config": {},
+          "config": {
+            "coverField": "thumbnail",
+            "fitStyle": "cover",
+            "includeFields": [
+              "status"
+            ]
+          },
           "filter": {
             "conditions": []
           },
@@ -107,7 +138,7 @@
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": true,
+      "isDefault": false,
       "dataSource": {
         "kind": "folder",
         "config": {
@@ -141,7 +172,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "date",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
           },
           "id": "138ba485-a107-4427-abbe-3cad33661381",
           "name": "Table",
@@ -277,6 +314,67 @@
       ],
       "id": "49f3b886-2f83-43dc-9ba7-c896409a15e8",
       "name": "OOP1"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Rust project",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "Rust project",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "thumbnail": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "970e4dcb-6975-4c24-9c9b-4bfdd6ec18b5",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "thumbnail",
+            "fitStyle": "contain"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7d081588-036a-4700-91e3-5b8a10d957b1",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "eb3ffd7b-9cac-41c1-ba6b-a4ad5291d695",
+      "name": "Rust Projekt"
     }
   ],
   "preferences": {
@@ -284,7 +382,12 @@
     "frontmatter": {
       "quoteStrings": "PLAIN"
     },
-    "commands": [],
+    "commands": [
+      {
+        "project": "eb3ffd7b-9cac-41c1-ba6b-a4ad5291d695",
+        "view": "970e4dcb-6975-4c24-9c9b-4bfdd6ec18b5"
+      }
+    ],
     "linkBehavior": "open-editor"
   }
 }
