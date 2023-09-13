@@ -16,5 +16,8 @@
   "obsidian-excalidraw-plugin",
   "mermaid-tools",
   "obsidian-kanban",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-custom-frames",
+  "obsidian-linter",
+  "darlal-switcher-plus"
 ]

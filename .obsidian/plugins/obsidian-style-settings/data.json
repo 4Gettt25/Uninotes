@@ -36,5 +36,6 @@
   "shiba-theme-settings@@background-primary-alt@@dark": "#141414",
   "shiba-theme-settings@@background-secondary@@dark": "#141414",
   "shiba-theme-settings@@background-secondary-alt@@dark": "#141414",
-  "shiba-theme-settings@@background-modifier-border@@dark": "#3C3C3C"
+  "shiba-theme-settings@@background-modifier-border@@dark": "#3C3C3C",
+  "shiba-theme-settings@@shiba-colors-theme-light": "sky-light"
 }

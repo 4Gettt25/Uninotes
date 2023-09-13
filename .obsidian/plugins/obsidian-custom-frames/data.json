@@ -1,0 +1,16 @@
+{
+  "frames": [
+    {
+      "url": "https://www.notion.so/Homepage-fac387cdf3934c738cdb743690bd7652",
+      "displayName": "Notion",
+      "icon": "box",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}
